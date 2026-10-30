@@ -1,0 +1,80 @@
+2026/10/24-13:35:52.351 2e1c Reusing MANIFEST C:\Users\SWETHA N M\Desktop\glassdoor_bot\chrome_profile_buster\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/24-13:35:52.355 2e1c Recovering log #411
+2026/10/24-13:35:52.359 2e1c Level-0 table #414: started
+2026/10/24-13:35:52.752 2e1c Level-0 table #414: 12524 bytes OK
+2026/10/24-13:35:53.007 2e1c Delete type=0 #411
+2026/10/24-13:35:53.008 4178 Compacting 4@0 + 1@1 files
+2026/10/24-13:35:53.036 4178 Generated table #416@0: 1993 keys, 42025 bytes
+2026/10/24-13:35:53.036 4178 Compacted 4@0 + 1@1 files => 42025 bytes
+2026/10/24-13:35:53.038 4178 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/24-13:35:53.040 4178 Delete type=2 #405
+2026/10/24-13:35:53.040 4178 Delete type=2 #407
+2026/10/24-13:35:53.040 4178 Delete type=2 #410
+2026/10/24-13:35:53.041 4178 Delete type=2 #412
+2026/10/24-13:35:53.041 4178 Delete type=2 #414
+2026/10/24-13:36:53.048 4178 Level-0 table #418: started
+2026/10/24-13:36:53.068 4178 Level-0 table #418: 11366 bytes OK
+2026/10/24-13:36:53.072 4178 Delete type=0 #415
+2026/10/24-13:38:11.568 2e1c Level-0 table #420: started
+2026/10/24-13:38:11.607 2e1c Level-0 table #420: 11541 bytes OK
+2026/10/24-13:38:11.629 2e1c Delete type=0 #417
+2026/10/24-13:40:11.559 4178 Level-0 table #422: started
+2026/10/24-13:40:11.592 4178 Level-0 table #422: 12607 bytes OK
+2026/10/24-13:40:11.596 4178 Delete type=0 #419
+2026/10/24-13:49:11.559 4178 Level-0 table #424: started
+2026/10/24-13:49:11.573 4178 Level-0 table #424: 14797 bytes OK
+2026/10/24-13:49:11.579 4178 Delete type=0 #421
+2026/10/24-13:49:11.582 2e1c Compacting 4@0 + 1@1 files
+2026/10/24-13:49:11.605 2e1c Generated table #425@0: 2035 keys, 42723 bytes
+2026/10/24-13:49:11.605 2e1c Compacted 4@0 + 1@1 files => 42723 bytes
+2026/10/24-13:49:11.607 2e1c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/24-13:49:11.609 2e1c Delete type=2 #416
+2026/10/24-13:49:11.610 2e1c Delete type=2 #418
+2026/10/24-13:49:11.610 2e1c Delete type=2 #420
+2026/10/24-13:49:11.610 2e1c Delete type=2 #422
+2026/10/24-13:49:11.610 2e1c Delete type=2 #424
+2026/10/24-13:51:11.558 4178 Level-0 table #427: started
+2026/10/24-13:51:11.572 4178 Level-0 table #427: 12677 bytes OK
+2026/10/24-13:51:11.576 4178 Delete type=0 #423
+2026/10/24-13:53:11.556 4178 Level-0 table #429: started
+2026/10/24-13:53:11.574 4178 Level-0 table #429: 12943 bytes OK
+2026/10/24-13:53:11.580 4178 Delete type=0 #426
+2026/10/24-14:00:11.564 4178 Level-0 table #431: started
+2026/10/24-14:00:11.580 4178 Level-0 table #431: 25554 bytes OK
+2026/10/24-14:00:11.584 4178 Delete type=0 #428
+2026/10/24-14:03:01.849 2e1c Level-0 table #433: started
+2026/10/24-14:03:01.863 2e1c Level-0 table #433: 16769 bytes OK
+2026/10/24-14:03:01.868 2e1c Delete type=0 #430
+2026/10/24-14:03:01.870 4178 Compacting 4@0 + 1@1 files
+2026/10/24-14:03:01.890 4178 Generated table #434@0: 2096 keys, 47828 bytes
+2026/10/24-14:03:01.890 4178 Compacted 4@0 + 1@1 files => 47828 bytes
+2026/10/24-14:03:01.892 4178 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/24-14:03:01.894 4178 Delete type=2 #425
+2026/10/24-14:03:01.894 4178 Delete type=2 #427
+2026/10/24-14:03:01.895 4178 Delete type=2 #429
+2026/10/24-14:03:01.895 4178 Delete type=2 #431
+2026/10/24-14:03:01.895 4178 Delete type=2 #433
+2026/10/24-14:05:11.567 4178 Level-0 table #436: started
+2026/10/24-14:05:11.578 4178 Level-0 table #436: 12916 bytes OK
+2026/10/24-14:05:11.581 4178 Delete type=0 #432
+2026/10/24-14:07:11.565 4178 Level-0 table #438: started
+2026/10/24-14:07:11.577 4178 Level-0 table #438: 12771 bytes OK
+2026/10/24-14:07:11.581 4178 Delete type=0 #435
+2026/10/24-14:09:11.554 4178 Level-0 table #440: started
+2026/10/24-14:09:11.568 4178 Level-0 table #440: 19492 bytes OK
+2026/10/24-14:09:11.571 4178 Delete type=0 #437
+2026/10/24-14:15:06.672 4178 Level-0 table #442: started
+2026/10/24-14:15:06.689 4178 Level-0 table #442: 17504 bytes OK
+2026/10/24-14:15:06.693 4178 Delete type=0 #439
+2026/10/24-14:15:06.694 2e1c Compacting 4@0 + 1@1 files
+2026/10/24-14:15:06.715 2e1c Generated table #443@0: 2141 keys, 44633 bytes
+2026/10/24-14:15:06.715 2e1c Compacted 4@0 + 1@1 files => 44633 bytes
+2026/10/24-14:15:06.717 2e1c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/24-14:15:06.720 2e1c Delete type=2 #434
+2026/10/24-14:15:06.720 2e1c Delete type=2 #436
+2026/10/24-14:15:06.720 2e1c Delete type=2 #438
+2026/10/24-14:15:06.720 2e1c Delete type=2 #440
+2026/10/24-14:15:06.720 2e1c Delete type=2 #442
+2026/10/24-14:17:07.058 4178 Level-0 table #445: started
+2026/10/24-14:17:07.076 4178 Level-0 table #445: 13384 bytes OK
+2026/10/24-14:17:07.081 4178 Delete type=0 #441

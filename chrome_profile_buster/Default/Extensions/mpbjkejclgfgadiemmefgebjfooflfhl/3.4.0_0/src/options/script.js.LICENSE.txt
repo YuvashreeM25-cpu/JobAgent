@@ -1,0 +1,11 @@
+/*!
+ * ONNX Runtime Web v1.26.0-dev.20260416-b7804b056c
+ * Copyright (c) Microsoft Corporation. All rights reserved.
+ * Licensed under the MIT License.
+ */
+
+/**
+* @vue/runtime-dom v3.5.35
+* (c) 2018-present Yuxi (Evan) You and Vue contributors
+* @license MIT
+**/

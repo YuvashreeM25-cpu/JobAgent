@@ -1,0 +1,50 @@
+2026/10/28-20:20:03.293 36f4 Reusing MANIFEST C:\Users\SWETHA N M\Desktop\glassdoor_bot\chrome_profile_buster\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/28-20:20:03.297 36f4 Recovering log #444
+2026/10/28-20:20:03.306 36f4 Reusing old log C:\Users\SWETHA N M\Desktop\glassdoor_bot\chrome_profile_buster\Default\Local Storage\leveldb/000444.log 
+2026/10/28-20:21:03.332 3b50 Level-0 table #448: started
+2026/10/28-20:21:03.350 3b50 Level-0 table #448: 14686 bytes OK
+2026/10/28-20:21:03.355 3b50 Delete type=0 #444
+2026/10/28-20:21:19.179 3b50 Level-0 table #450: started
+2026/10/28-20:21:19.271 3b50 Level-0 table #450: 11744 bytes OK
+2026/10/28-20:21:19.422 3b50 Delete type=0 #447
+2026/10/28-20:26:12.583 3b50 Level-0 table #452: started
+2026/10/28-20:26:12.729 3b50 Level-0 table #452: 22843 bytes OK
+2026/10/28-20:26:12.738 3b50 Delete type=0 #449
+2026/10/28-20:26:12.753 3b50 Compacting 4@0 + 1@1 files
+2026/10/28-20:26:12.863 3b50 Generated table #453@0: 2186 keys, 50099 bytes
+2026/10/28-20:26:12.863 3b50 Compacted 4@0 + 1@1 files => 50099 bytes
+2026/10/28-20:26:12.865 3b50 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/28-20:26:12.867 3b50 Delete type=2 #443
+2026/10/28-20:26:12.867 3b50 Delete type=2 #445
+2026/10/28-20:26:12.868 3b50 Delete type=2 #448
+2026/10/28-20:26:12.868 3b50 Delete type=2 #450
+2026/10/28-20:26:12.868 3b50 Delete type=2 #452
+2026/10/28-20:33:12.065 3b50 Level-0 table #455: started
+2026/10/28-20:33:12.077 3b50 Level-0 table #455: 17779 bytes OK
+2026/10/28-20:33:12.079 3b50 Delete type=0 #451
+2026/10/28-20:35:12.470 3b50 Level-0 table #457: started
+2026/10/28-20:35:12.482 3b50 Level-0 table #457: 12013 bytes OK
+2026/10/28-20:35:12.485 3b50 Delete type=0 #454
+2026/10/28-20:37:12.469 3b50 Level-0 table #459: started
+2026/10/28-20:37:12.484 3b50 Level-0 table #459: 19627 bytes OK
+2026/10/28-20:37:12.488 3b50 Delete type=0 #456
+2026/10/28-20:39:12.064 3b50 Level-0 table #461: started
+2026/10/28-20:39:12.079 3b50 Level-0 table #461: 19507 bytes OK
+2026/10/28-20:39:12.083 3b50 Delete type=0 #458
+2026/10/28-20:39:12.084 3b50 Compacting 4@0 + 1@1 files
+2026/10/28-20:39:12.107 3b50 Generated table #462@0: 2227 keys, 49889 bytes
+2026/10/28-20:39:12.107 3b50 Compacted 4@0 + 1@1 files => 49889 bytes
+2026/10/28-20:39:12.109 3b50 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/28-20:39:12.111 3b50 Delete type=2 #453
+2026/10/28-20:39:12.111 3b50 Delete type=2 #455
+2026/10/28-20:39:12.111 3b50 Delete type=2 #457
+2026/10/28-20:39:12.111 3b50 Delete type=2 #459
+2026/10/28-20:39:12.112 3b50 Delete type=2 #461
+2026/10/28-20:42:12.686 3b50 Level-0 table #464: started
+2026/10/28-20:42:13.070 3b50 Level-0 table #464: 18162 bytes OK
+2026/10/28-20:42:13.075 3b50 Delete type=0 #460
+2026/10/28-20:45:12.469 36f4 Level-0 table #466: started
+2026/10/28-20:45:12.490 36f4 Level-0 table #466: 16460 bytes OK
+2026/10/28-20:45:12.494 36f4 Delete type=0 #463
+2026/10/28-20:53:47.027 f84 Level-0 table #468: started
+2026/10/28-20:53:47.173 f84 Level-0 table #468: 15250 bytes OK

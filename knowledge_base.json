@@ -1,0 +1,272 @@
+{
+  "personal_information": {
+    "first_name": "YUVASHREE",
+    "last_name": "M",
+    "preferred_name": "YUVASHREE M",
+    "salutation": "Ms/Miss",
+    "gender": "Woman/ female",
+    "date_of_birth": "25/08/2004",
+    "age_18_or_older": true,
+    "marital_status": "Single",
+    "nationality": "Indian",
+    "country_of_birth": "India",
+    "dual_citizenship": false,
+    "race_ethnicity": "Asian (Indian)",
+    "hispanic_or_latino": false,
+    "preferred_pronouns": "She/Her",
+    "disability_status": "No",
+    "veteran_status": "No",
+    "military_service": "No"
+  },
+  "contact_information": {
+    "phone_country": "India (+91)",
+    "primary_phone_number": "8056289370",
+    "alternate_phone_number": "9677068206",
+    "email_address": "yuvashreem25@gmail.com",
+    "current_address": {
+      "address_line_1": "#10/A, 1st Maari street",
+      "address_line_2": "Moolachathiram, MMC",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "postal_code": "600051",
+      "country": "India"
+    },
+    "permanent_address_same_as_current": true
+  },
+  "professional_profiles": {
+    "linkedin_profile": "https://www.linkedin.com/in/yuvashree-m",
+    "github_profile": "https://github.com/YuvashreeM25-cpu",
+    "personal_ai_chatbot": "https://yuvashree-ai-agent.onrender.com/",
+    "video_profile": "https://drive.google.com/file/d/1aXqaV7K0EYRNGmi-jZrmbe2y0RvitD4a/view"
+  },
+  "citizenship_and_work_authorization": {
+    "current_country_of_residence": "India",
+    "native_country": "India",
+    "valid_indian_passport": true,
+    "passport_number": "AD966423",
+    "passport_expiry_date": "29/06/2035",
+    "Require_Visa? ": "If the job is in India, I dont want any visa or employment sponsorship. If the job is outside India, I will require visa or employment sponsorship."
+  },
+  "employment_status": {
+    "current_status": "Unemployed",
+    "most_recent_employer": "Verizon",
+    "most_recent_job_title": "Junior Engineer - Software Development",
+    "most_recent_office_location": "Chennai, Tamil Nadu, India",
+    "employment_start_date": "14 July 2025",
+    "employment_end_date": "29 May 2026",
+    "relevant_professional_experience": "1 year",
+    "relevant_experience_including_internships": "2 years"
+  },
+  "education": {
+    "highest_education_level": "Bachelor's Degree",
+    "degree": "B.Sc. Data Science",
+    "college": "M.O.P. Vaishnav College for Women",
+    "college_location": "Nungambakkam, Chennai, Tamil Nadu, India",
+    "graduation_year": 2025,
+    "cgpa": "7.5/10",
+    "graduation_date_or_passed_out_date": "16/04/2025"
+  },
+  "technical_skills": {
+    "programming_languages": [
+      "Python",
+      "Java",
+      "SQL",
+      "HTML"
+    ],
+    "data_and_business_tools": [
+      "Power BI",
+      "Tableau",
+      "Microsoft Excel"
+    ],
+    "data_engineering_and_analytics": [
+      "PySpark",
+      "Big Data Analysis",
+      "JSON"
+    ],
+    "apis_and_integration": [
+      "REST APIs",
+      "APIs"
+    ],
+    "other_skills": [
+      "AI Tools",
+      "Research"
+    ]
+  },
+  "technical_experience_years": {
+    "Python": 1,
+    "R": 1,
+    "Agentic_AI": 1,
+    "Automation": 1,
+    "Deep_Learning": 1,
+    "Machine_Learning": 1,
+    "MS Office": 1,
+    "Excel": 2,
+    "Slack": 1,
+    "Jira": 1,
+    "Microsoft_Teams": 1,
+    "Java": 1,
+    "SQL": 1,
+    "Tableau": 1,
+    "nlp": 1,
+    "Time series": 1,
+    "Power_BI": 1,
+    "Microsoft_Excel": 1,
+    "REST_APIs": 1,
+    "PySpark": 1,
+    "JSON": 1,
+    "AI _Tools_like_cluade_or_gemini_or_copilot": 1,
+    "Data_analysis": 1,
+    "data_analytics": 1,
+    "CRM_databases": 1,
+    "Big_Data_Analysis": 1,
+    "QlikView": 0,
+    "Quantitative_Risk": 0,
+    "Portfolio_Performance_Analysis": 0,
+    "Investment_Banking": 0,
+    "Category_Management": 0,
+    "Retail_Apparel_and_Fashion": 0,
+    "Category_Experience": 0,
+    "Business_Analysis": 1
+  },
+  "skill_assessments": {
+    "excel_rating": 5,
+    "excel_google_sheets_rating": 1,
+    "has_python_experience": true,
+    "has_sql_experience": true,
+    "has_power_bi_or_tableau_experience": true,
+    "has_team_leadership_experience": true,
+    "has_fintech_technology_or_startup_experience": true,
+    "has_executive_or_c_level_dashboard_reporting_experience": true,
+    "has_data_consolidation_experience_across_financial_operational_and_marketing_sources": true,
+    "has_global_or_multi_market_experience": true,
+    "has_clevertap_experience": false
+  },
+  "language_proficiency": {
+    "Tamil": "Native",
+    "English": "Professional / Fluent / Advanced"
+  },
+  "job_preferences": {
+    "preferred_work_arrangements": [
+      "Remote",
+      "Hybrid",
+      "On-site"
+    ],
+    "comfortable_working_onsite": true,
+    "willing_to_relocate": true,
+    "willing_to_work_shifts": true,
+    "willing_to_work_night_shifts": true,
+    "willing_to_work_rotational_shifts": true,
+    "willing_to_work_at_required_job_location": true,
+    "full_time_availability": true,
+    "available_duration": "Full time",
+    "earliest_start": "Immediately / next working day",
+    "notice_period_days": 0
+  },
+  "salary_information": {
+    "last_drawn_monthly_salary_inr": 29000,
+    "last_drawn_annual_ctc_inr": 420000,
+    "current_annual_ctc_inr": 420000,
+    "current_fixed_compensation_inr": 400000,
+    "current_variable_compensation_inr": 20000,
+    "current_unvested_options_or_rsu_value_inr": 0,
+    "salary_expectations_are_negotiable": true
+  },
+  "salary_expectations": {
+    "recorded_expected_ctc_values_inr": [
+      380000
+    ],
+    "recorded_expected_monthly_salary_values": {
+      "INR": [
+        30000
+      ],
+      "SGD": [
+        335
+      ]
+    },
+    "note": "The source contains conflicting salary expectations with different currencies, units, and annual/monthly interpretations. These values are preserved rather than guessed or merged."
+  },
+  "application_answers": {
+    "why_work_for_company": "Critical thinking, calculated risk management, and sustainable solutions are ways to implement ideas. I believe the company can help me execute ideas, learn from the experience, and improve.",
+    "why_best_candidate": "I am flexible, capable of solving problems, and able to improvise effectively.",
+    "how_heard_about_job": "LinkedIn job posting",
+    "Interested in Internship": "Yes, I am interested in internship opportunities.",
+    "Interested in Full-time": "Yes, I am interested in full-time opportunities.",
+    "What percentage of time willing to travel": "I am willing to travel up to 75% of the time for work-related purposes."
+  },
+  "employment_and_background_questions": {
+    "previously_worked_at_phonepe": false,
+    "previously_worked_at_exlservice_or_associate_company": false,
+    "non_compete_agreement": false,
+    "criminal_conviction": false,
+    "willing_to_undergo_background_check": true,
+    "willing_to_undergo_drug_test_where_legally_required": true,
+    "previous_exl_interview_within_last_90_days": false
+  },
+  "application_declarations": {
+    "accepts_event_e2i_terms_and_conditions": true,
+    "acknowledges_application_information_is_accurate": true,
+    "acknowledges_nielseniq_privacy_notice": true
+  },
+  "singapore_specific_application_answers": {
+    "legally_authorized_to_work_in_singapore": false,
+    "singaporean_or_singapore_permanent_resident": false,
+    "requires_visa_sponsorship": true,
+    "current_right_to_work_status": "Foreigner",
+    "chinese_language_proficiency": "None",
+    "english_language_proficiency": "Business communication / Professional",
+    "chinese_english_daily_working_languages": true,
+    "source_inconsistency": {
+      "field": "Chinese-language application question about legal status in Singapore",
+      "recorded_answer": "Yes",
+      "conflict": "This conflicts with the other Singapore work-authorization answers, which consistently state that the applicant is not legally authorized to work in Singapore without a work pass/sponsorship."
+    }
+  },
+  "other_application_answers": {
+    "has_bachelors_degree": true,
+    "willing_to_work_onsite": true,
+    "willing_to_relocate": true,
+    "available_to_start_immediately": true,
+    "available_hours_per_week": 42,
+    "under_18_work_permit_required": false
+  },
+  "profile_summary": {
+    "candidate_type": "Early-career Data Science / Software Development professional",
+    "professional_experience": "1 year",
+    "internship_included_experience": "2 years",
+    "primary_technical_focus": [
+      "Python",
+      "Java",
+      "SQL",
+      "Data Analysis",
+      "Power BI",
+      "Tableau",
+      "PySpark",
+      "REST APIs",
+      "AI Tools"
+    ],
+    "education_summary": "B.Sc. Data Science, M.O.P. Vaishnav College for Women, graduated in 2025",
+    "current_location": "Chennai, Tamil Nadu, India",
+    "availability": "Immediate",
+    "relocation": "Willing",
+    "work_mode_flexibility": [
+      "Remote",
+      "Hybrid",
+      "On-site"
+    ],
+    "Please let us know when will you be avaialble for an interview?": "I am available for an interview immediately, and I can adjust to the interview schedule as needed. "
+  },
+  "general_questions": {
+    "Please could you provide your Personal Identification Number (NRIC)": "NA",
+    "How many years of AI experience do you have?": "1"
+  },
+  "radio_questions": {
+    "In which of the following locations do you live?": "Hyderabad, Telangana, India"
+  },
+  "dates": {
+    "When are you available to start?": "28/09/2026",
+    "Expected last working day": "31/12/2027"
+  },
+  "multiselect_questions": {
+    "Do you have any offer in hand from campus placement? \nrequired": "No"
+  }
+}

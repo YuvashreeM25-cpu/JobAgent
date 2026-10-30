@@ -1,0 +1,28 @@
+2026/10/24-13:36:16.597 4324 Reusing MANIFEST C:\Users\SWETHA N M\Desktop\glassdoor_bot\chrome_profile_buster\Default\IndexedDB\https_www.glassdoor.co.in_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/24-13:36:16.598 4324 Recovering log #15
+2026/10/24-13:36:16.636 4324 Reusing old log C:\Users\SWETHA N M\Desktop\glassdoor_bot\chrome_profile_buster\Default\IndexedDB\https_www.glassdoor.co.in_0.indexeddb.leveldb/000015.log 
+2026/10/24-13:36:19.373 4324 Level-0 table #20: started
+2026/10/24-13:36:19.436 4324 Level-0 table #20: 3127481 bytes OK
+2026/10/24-13:36:19.442 4324 Delete type=0 #15
+2026/10/24-13:39:49.643 4324 Compacting 1@1 + 1@2 files
+2026/10/24-13:39:49.806 4324 Generated table #21@1: 319 keys, 75724 bytes
+2026/10/24-13:39:49.806 4324 Compacted 1@1 + 1@2 files => 75724 bytes
+2026/10/24-13:39:49.810 4324 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/24-13:39:49.811 4324 Delete type=2 #17
+2026/10/24-13:39:49.811 4324 Delete type=2 #20
+2026/10/24-13:52:35.959 4324 Level-0 table #23: started
+2026/10/24-13:52:36.075 4324 Level-0 table #23: 2949647 bytes OK
+2026/10/24-13:52:36.082 4324 Delete type=0 #19
+2026/10/24-13:53:57.983 4640 Compacting 1@1 + 1@2 files
+2026/10/24-13:53:58.021 4640 Generated table #24@1: 428 keys, 36636 bytes
+2026/10/24-13:53:58.021 4640 Compacted 1@1 + 1@2 files => 36636 bytes
+2026/10/24-13:53:58.023 4640 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/24-13:53:58.024 4640 Delete type=2 #21
+2026/10/24-13:53:58.024 4640 Delete type=2 #23
+2026/10/24-14:11:02.678 2d68 Level-0 table #26: started
+2026/10/24-14:11:02.763 2d68 Level-0 table #26: 2599707 bytes OK
+2026/10/24-14:11:02.770 2d68 Delete type=0 #22
+2026/10/24-14:14:13.488 4324 Compacting 1@1 + 1@2 files
+2026/10/24-14:14:13.537 4324 Generated table #27@1: 565 keys, 76999 bytes
+2026/10/24-14:14:13.537 4324 Compacted 1@1 + 1@2 files => 76999 bytes
+2026/10/24-14:14:13.538 4324 compacted to: files[ 0 0 1 0 0 0 0 ]
